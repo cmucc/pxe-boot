@@ -1,0 +1,8 @@
+*.mod
+linux
+*.gz
+*.c32
+*.efi
+*.png
+pxelinux.0
+*.pf2
